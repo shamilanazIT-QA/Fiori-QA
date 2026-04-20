@@ -1,10 +1,3 @@
-python -m pytest tests/test_fiori_flow.py
-
-ERP (Enterprise Resource Planning).
-POM page object model 
-CRM Resource management
-SAP HCM (Human Capital Management).
-
 # SAP Fiori Automation Framework 🚀
 
 ## Project Overview
