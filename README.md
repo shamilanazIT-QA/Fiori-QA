@@ -1,3 +1,9 @@
+About the Author
+QA Professional with a Bachelor’s in Information Technology.
+
+Expertise: Medical Billing Systems, EMR Workflows, and ISO Certification Compliance.
+
+Focus: Transitioning manual testing excellence into scalable Automation Engineering.
 # SAP Fiori Automation Framework 🚀
 
 ## Project Overview
